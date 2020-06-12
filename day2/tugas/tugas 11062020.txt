@@ -1,0 +1,7 @@
+tugas hari ini:
+
+1. siswa budi memiliki nilai matematika 70, bhs indonesia 80, bhs inggris 90
+2. siswa tono memiliki nilai matematika 60, bhs indonesia 70, bhs inggris 80
+3. siswa gadis memiliki nilai matematika 55, bhs indonesia 75, bhs inggris 95
+
+tampilkan nilai matematika yang nilainya >= 60
