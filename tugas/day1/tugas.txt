@@ -1,0 +1,4 @@
+Grade < 60 = Tidak Lulus
+Grade 60 sd 69 = C
+Grade 70 sd 79 = B
+Grade 80 sd 100 = A
